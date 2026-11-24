@@ -1,0 +1,160 @@
+{
+  "title": "The Last Soundcheck",
+  "opening": "The venue sound drops just before the premiere.",
+  "initialState": {
+    "sound": 0,
+    "captions": 8,
+    "signal": 12,
+    "audience": 48,
+    "trust": 52,
+    "screening": false
+  },
+  "seed": 6,
+  "ending": "The premiere speaks in title cards",
+  "beats": [
+    {
+      "boat": "deck",
+      "action": "Cut a silent reel",
+      "line": "I can carry the scene on faces. Put the first title over black.",
+      "reason": "title readability stands at 8/100. This move gains 36 points there.",
+      "seconds": 8,
+      "clock": 0,
+      "state": {
+        "sound": 0,
+        "captions": 44,
+        "signal": 12,
+        "audience": 43,
+        "trust": 52,
+        "screening": false
+      }
+    },
+    {
+      "boat": "scout",
+      "action": "Find a relay audience",
+      "line": "The foyer has a projector. Give me the people stuck outside.",
+      "reason": "audience reach stands at 43/100. This move gains 19 points there.",
+      "seconds": 8,
+      "clock": 8,
+      "state": {
+        "sound": 0,
+        "captions": 44,
+        "signal": 30,
+        "audience": 62,
+        "trust": 52,
+        "screening": false
+      }
+    },
+    {
+      "boat": "social",
+      "action": "Mirror the feed",
+      "line": "I can see your test frame in the foyer. I'm opening the second screen.",
+      "reason": "Following “Find a relay audience”, foyer signal stands at 30/100. This move gains 30 points there.",
+      "seconds": 8,
+      "clock": 16,
+      "state": {
+        "sound": 0,
+        "captions": 44,
+        "signal": 60,
+        "audience": 70,
+        "trust": 52,
+        "screening": false
+      }
+    },
+    {
+      "boat": "deck",
+      "action": "Cut a silent reel",
+      "line": "Hold on her face for two more frames. Now the title lands.",
+      "reason": "title readability stands at 44/100. This move gains 36 points there.",
+      "seconds": 8,
+      "clock": 24,
+      "state": {
+        "sound": 0,
+        "captions": 80,
+        "signal": 60,
+        "audience": 65,
+        "trust": 52,
+        "screening": false
+      }
+    },
+    {
+      "boat": "scout",
+      "action": "Find a relay audience",
+      "line": "There are coats on every chair out here. They're waiting for your picture.",
+      "reason": "audience reach stands at 65/100. This move gains 19 points there.",
+      "seconds": 8,
+      "clock": 32,
+      "state": {
+        "sound": 0,
+        "captions": 80,
+        "signal": 78,
+        "audience": 84,
+        "trust": 52,
+        "screening": false
+      }
+    },
+    {
+      "boat": "social",
+      "action": "Proof the title cards",
+      "line": "I lost the last word from the aisle. Make that card bigger.",
+      "reason": "title readability stands at 80/100. This move gains 20 points there.",
+      "seconds": 8,
+      "clock": 40,
+      "state": {
+        "sound": 0,
+        "captions": 100,
+        "signal": 78,
+        "audience": 82,
+        "trust": 65,
+        "screening": false
+      }
+    },
+    {
+      "boat": "scout",
+      "action": "Read the front row",
+      "line": "They're still in their seats. I'll ask what they can hear.",
+      "reason": "Following “Proof the title cards”, audience confidence stands at 65/100. This move gains 23 points there.",
+      "seconds": 8,
+      "clock": 48,
+      "state": {
+        "sound": 0,
+        "captions": 100,
+        "signal": 78,
+        "audience": 92,
+        "trust": 88,
+        "screening": false
+      }
+    },
+    {
+      "boat": "deck",
+      "action": "Patch the house sound",
+      "line": "I hear the projector motor. Give me a minute at the patch bay.",
+      "reason": "house sound stands at 0/100. This move gains 34 points there.",
+      "seconds": 8,
+      "clock": 56,
+      "state": {
+        "sound": 34,
+        "captions": 100,
+        "signal": 78,
+        "audience": 90,
+        "trust": 85,
+        "screening": false
+      }
+    },
+    {
+      "boat": "scout",
+      "action": "Open the caption premiere",
+      "line": "Our reader can see every word. Roll the picture.",
+      "reason": "At 100/100, title readability is ready to carry the premiere.",
+      "seconds": 8,
+      "clock": 64,
+      "state": {
+        "sound": 34,
+        "captions": 100,
+        "signal": 78,
+        "audience": 90,
+        "trust": 97,
+        "screening": true
+      }
+    }
+  ]
+}

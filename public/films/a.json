@@ -1,0 +1,160 @@
+{
+  "title": "The Last Soundcheck",
+  "opening": "The venue sound drops just before the premiere.",
+  "initialState": {
+    "sound": 0,
+    "captions": 8,
+    "signal": 12,
+    "audience": 48,
+    "trust": 52,
+    "screening": false
+  },
+  "seed": 3,
+  "ending": "The house hears the first breath",
+  "beats": [
+    {
+      "boat": "deck",
+      "action": "Patch the house sound",
+      "line": "I hear the projector motor. Give me a minute at the patch bay.",
+      "reason": "house sound stands at 0/100. This move gains 34 points there.",
+      "seconds": 8,
+      "clock": 0,
+      "state": {
+        "sound": 34,
+        "captions": 8,
+        "signal": 12,
+        "audience": 46,
+        "trust": 49,
+        "screening": false
+      }
+    },
+    {
+      "boat": "social",
+      "action": "Mirror the feed",
+      "line": "I can see your test frame in the foyer. I'm opening the second screen.",
+      "reason": "foyer signal stands at 12/100. This move gains 30 points there.",
+      "seconds": 8,
+      "clock": 8,
+      "state": {
+        "sound": 34,
+        "captions": 8,
+        "signal": 42,
+        "audience": 54,
+        "trust": 49,
+        "screening": false
+      }
+    },
+    {
+      "boat": "scout",
+      "action": "Find a relay audience",
+      "line": "The foyer has a projector. Give me the people stuck outside.",
+      "reason": "Following “Mirror the feed”, audience reach stands at 54/100. This move gains 19 points there.",
+      "seconds": 8,
+      "clock": 16,
+      "state": {
+        "sound": 34,
+        "captions": 8,
+        "signal": 60,
+        "audience": 73,
+        "trust": 49,
+        "screening": false
+      }
+    },
+    {
+      "boat": "deck",
+      "action": "Patch the house sound",
+      "line": "There. Try the house speakers again, from the top.",
+      "reason": "house sound stands at 34/100. This move gains 34 points there.",
+      "seconds": 8,
+      "clock": 24,
+      "state": {
+        "sound": 68,
+        "captions": 8,
+        "signal": 60,
+        "audience": 71,
+        "trust": 46,
+        "screening": false
+      }
+    },
+    {
+      "boat": "social",
+      "action": "Proof the title cards",
+      "line": "I lost the last word from the aisle. Make that card bigger.",
+      "reason": "title readability stands at 8/100. This move gains 23 points there.",
+      "seconds": 8,
+      "clock": 32,
+      "state": {
+        "sound": 68,
+        "captions": 31,
+        "signal": 60,
+        "audience": 69,
+        "trust": 59,
+        "screening": false
+      }
+    },
+    {
+      "boat": "deck",
+      "action": "Cut a silent reel",
+      "line": "I can carry the scene on faces. Put the first title over black.",
+      "reason": "Following “Proof the title cards”, title readability stands at 31/100. This move gains 36 points there.",
+      "seconds": 8,
+      "clock": 40,
+      "state": {
+        "sound": 68,
+        "captions": 67,
+        "signal": 60,
+        "audience": 64,
+        "trust": 59,
+        "screening": false
+      }
+    },
+    {
+      "boat": "scout",
+      "action": "Find a relay audience",
+      "line": "There are coats on every chair out here. They're waiting for your picture.",
+      "reason": "audience reach stands at 64/100. This move gains 19 points there.",
+      "seconds": 8,
+      "clock": 48,
+      "state": {
+        "sound": 68,
+        "captions": 67,
+        "signal": 78,
+        "audience": 83,
+        "trust": 59,
+        "screening": false
+      }
+    },
+    {
+      "boat": "social",
+      "action": "Mirror the feed",
+      "line": "Both screens have the same frame. Let the people at the doors in.",
+      "reason": "Following “Find a relay audience”, foyer signal stands at 78/100. This move gains 22 points there.",
+      "seconds": 8,
+      "clock": 56,
+      "state": {
+        "sound": 68,
+        "captions": 67,
+        "signal": 100,
+        "audience": 91,
+        "trust": 59,
+        "screening": false
+      }
+    },
+    {
+      "boat": "deck",
+      "action": "Roll house sound",
+      "line": "House lights down. Listen for the first breath.",
+      "reason": "At 68/100, house sound is ready to carry the premiere.",
+      "seconds": 8,
+      "clock": 64,
+      "state": {
+        "sound": 68,
+        "captions": 67,
+        "signal": 100,
+        "audience": 100,
+        "trust": 59,
+        "screening": true
+      }
+    }
+  ]
+}
