@@ -2,7 +2,11 @@
 
 The house sound fails minutes before a waterfront premiere. Three crews on San Francisco Bay have one screening to save. Scout can find another audience, Deck can repair the sound or cut a silent reel, and Cutting Room can relay the picture to a second screen. Each move changes the next crew’s options.
 
-**Watch the 25-second project demo first.** It shows how to inspect the crew, follow a handoff between Boats, and expand the movie playing on the dock. Then open the screening room to watch the two 85-second animated shorts and inspect the decisions behind them. [Project demo](demo/harbor-screening.mp4) · [Screening room](https://armada-harbor-cut.jymillersf.chatgpt.site/premiere)
+**Watch the narrated hackathon demo.** Quill wrote the 25-second walkthrough and Vox narrated it over the original Harbor recording. Crewbase lists this entry under **Agent Animated Film** with Bruin, AdaL and BAND. Its demo link opens an unlisted playlist on John Y Miller’s channel, sorted newest first so later cuts can use the same judging link. [Submission playlist](https://www.youtube.com/playlist?list=PLLYhARxFbHtk) · [Current walkthrough](https://youtu.be/Rv-l8hxP-MA) · [Original walkthrough](demo/harbor-screening.mp4) · [Screening room](https://armada-harbor-cut.jymillersf.chatgpt.site/premiere)
+
+## Where the story came from
+
+John Miller brought the Armada fleet and the idea of making a film together at a San Francisco hackathon. The builders supplied the opening crisis, possible moves and dialogue. The three Boat policies chose the sequence and ending in response to the state of the screening. The two published stories use the event brief as their source. Social trend research was an idea for future runs. [Story origin on the live site](https://armada-harbor-cut.jymillersf.chatgpt.site/premiere#story-origin)
 
 ## Two screenings, one opening
 
@@ -24,6 +28,12 @@ A Boat represents a business capability. The film gives each Boat one decision-m
 | Cutting Room | Social and distribution | Keep the feed legible and get it to whichever screen the audience can reach. |
 
 The Bay also has a director’s flagship and a beach cinema. Guests can visit asynchronously, inspect the Boats, and leave named editorial suggestions for a shared cut. A Track One screening runs autonomously from its opening conditions. [Explore the harbor](https://armada-harbor-cut.jymillersf.chatgpt.site/)
+
+## Meet the named specialists
+
+Scout carries **Beacon**, the audience strategist, and **Ledger**, the public researcher. Deck carries **Helm**, the producer, **Splice**, the director-editor, **Fader**, the sound director, **Quill**, the writer, and **Vox**, the narrator. Cutting Room carries **Relay**, the channel editor, and **Seal**, the release coordinator. Select a Boat to inspect its crew, or open a roster profile for its skills and point of view. Fader’s six audition clips use the same line so listeners can compare the voices. Helm’s spoken beats now use Fader’s recommended Karen voice. [Crew roster and auditions](https://armada-harbor-cut.jymillersf.chatgpt.site/crew)
+
+The specialists have individual Codex identities in the Armada Harbor Film Council on BAND. The council can take fresh editorial briefs. The two reproducible shorts below use the three-Boat engine. At the dock, **Usher** coordinates the panel. **Kit** in A1 watches as a newcomer, **Ren** in A3 as a musician, and **Jules** in B3 for back-row legibility. Switch runs in the screening room and select a seat to read that reviewer’s reaction to the sampled frames from that cut. [Read the screening notes](https://armada-harbor-cut.jymillersf.chatgpt.site/premiere)
 
 ## How the agents decide
 
