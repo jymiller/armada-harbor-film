@@ -1,0 +1,60 @@
+{
+  "edition": "Pier 9 narrative screening 1",
+  "reviewBasis": "Visual review of sampled narrative frames. Credits and audio are outside the ballot.",
+  "cuts": {
+    "a": {
+      "version": "63fdf3769633f01d2e2ffe38e1792d1353d9f786e4c078319e24a80371492bd1",
+      "sheet": "https://armada-harbor-cut.jymillersf.chatgpt.site/films/screening-63fdf3769633f01d2e2ffe38e1792d1353d9f786e4c078319e24a80371492bd1.jpg",
+      "average": 3.67,
+      "recommendations": 2,
+      "reviewers": 3,
+      "ballots": [
+        {
+          "reviewer": "Kit",
+          "stars": 4,
+          "recommend": true,
+          "reason": "I could follow the move from zero sound to ready, even though the foyer scores confused me."
+        },
+        {
+          "reviewer": "Ren",
+          "stars": 4,
+          "recommend": true,
+          "reason": "The returning orange waveform built anticipation, and the wide shot of the pier released it."
+        },
+        {
+          "reviewer": "Jules",
+          "stars": 3,
+          "recommend": false,
+          "reason": "I had to hunt for the 68/100 result."
+        }
+      ]
+    },
+    "b": {
+      "version": "1417117dcec3c855b4f75083963acd21f75166fd0d2140d9f8afbd32818c599d",
+      "sheet": "https://armada-harbor-cut.jymillersf.chatgpt.site/films/screening-1417117dcec3c855b4f75083963acd21f75166fd0d2140d9f8afbd32818c599d.jpg",
+      "average": 3.67,
+      "recommendations": 3,
+      "reviewers": 3,
+      "ballots": [
+        {
+          "reviewer": "Kit",
+          "stars": 3,
+          "recommend": true,
+          "reason": "I liked LOOK CLOSER. By its third appearance I wanted to see someone in the front row discover something."
+        },
+        {
+          "reviewer": "Ren",
+          "stars": 4,
+          "recommend": true,
+          "reason": "I recognized the visual refrain and noticed the audience icons filling."
+        },
+        {
+          "reviewer": "Jules",
+          "stars": 4,
+          "recommend": true,
+          "reason": "I could read LOOK CLOSER at a glance."
+        }
+      ]
+    }
+  }
+}
